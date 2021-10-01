@@ -1,6 +1,6 @@
 # 🐶 세나개: '세상에 나쁜 개발 지식은 없다'
 
-![image](https://user-images.githubusercontent.com/73899253/135610517-de91faf7-8849-4cca-863c-c6c6858d6f76.png)
+![image](https://user-images.githubusercontent.com/73899253/135612261-694acd8c-a77c-4b49-b7bc-9cc6eebf250e.png)
 
 # 🥰 소개
 
