@@ -15,7 +15,8 @@
 - Webpact
 
 ### Backend
-- CORS
+- AWS
+  - [AWS(Amazon Web Service)란 무엇인가](https://pro-yomi.tistory.com/10)
 
 ### CS
 - Network
