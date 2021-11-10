@@ -24,3 +24,5 @@
 
 ### ETC
 - [엘리스에서 코치로 있으면서 느낀 점들](https://medium.com/@alveloper/what-i-feel-after-working-as-a-front-end-coach-599cf3fe4d36)
+- [한국의 국가적 AI 코딩 교육 지원과 내가 관련 부트캠프를 6개월 간 다닌 이야기](https://jinsheap.medium.com/koreas-national-support-on-ai-bootcamp-and-my-six-months-of-experience-with-it-7126741ad875)
+
