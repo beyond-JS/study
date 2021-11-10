@@ -10,7 +10,7 @@
     
 - 김수연
     
-    [this](https://alveloper.oopy.io/860ac3dd-5ba3-4852-85f2-fd38e5d6fcb6)
+    [this](https://www.notion.so/code32/this-860ac3dd5ba3485285f2fd38e5d6fcb6)
     
 - 윤수진
     - 자료구조 스택, 큐
