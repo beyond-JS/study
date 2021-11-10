@@ -23,3 +23,4 @@
 - 비전공자를 위한 IT 지식
 
 ### ETC
+- [엘리스에서 코치로 있으면서 느낀 점들](https://medium.com/@alveloper/what-i-feel-after-working-as-a-front-end-coach-599cf3fe4d36)
