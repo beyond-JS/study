@@ -6,7 +6,7 @@ Vanila JS 스터디에서 진행한 내용을 백업해놓은 저장소입니다
 
 ##  🔖 잠깐 설명!
 ### Vanilla JS 스터디란?
-  - Elice Web & AI 부트캠프 1기(2020.12 - 2020.06)에서 진행된 바닐라 JS 공부 모임
+  - Elice Web & AI 부트캠프 1기(2020.12 - 2020.06)에서 진행된 바닐라 JS 공부 모임 ([기존 스터디 저장소 바로가기](https://github.com/elice-vanillajs-study))
   - 부트캠프 참여자들이 자율적으로 주제를 정하고 참가자를 모집해 약 2달 간 진행 ([모집 링크 바로가기](https://www.notion.so/0990ebad267b4d75bdc67105f751bbcf))
   - 기본 문법부터 객체 지향 프로그래밍과 같은 고급 개념까지 바닐라 JS를 잘 알기 위한 개념을 학습 ([소개 노션 바로가기](https://www.notion.so/VanillaJs-4febdeafbc4c4e7b8d2a973de02a81f3))
 ### Vanilla JS 스터디에서 세나개가 된 이유는?
