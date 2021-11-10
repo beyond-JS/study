@@ -17,14 +17,13 @@
         엔진은 프로세스 각 단계마다 최적화를 진행합니다. 심지어 컴파일이 끝나고 실행 중인 코드를 감시하면서, 이 코드로 흘러가는 데이터를 분석하고, 분석 결과를 토대로 기계어로 전환된 코드를 다시 최적화하기도 합니다. 이런 과정을 거치면 스크립트 실행 속도는 더욱 더 빨라집니다.
         
         - Compiled vs Script
-            
-            
-            ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef36f208-0108-4ceb-ad3b-e0635aee9e50/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef36f208-0108-4ceb-ad3b-e0635aee9e50/Untitled.png)
+            ![image](https://user-images.githubusercontent.com/70951555/141078001-f1572a0d-14ea-45aa-bfae-9b6755c4e175.png)
+
             
             - Compile : 코드를 처음부터 끝까지 한번에 다 기계어로 바꿈. 실행시간 빠름
             - Script : Interpreter로 한 줄 한 줄 바꿈. 실행시간이 다소 느림.
             
-            ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67466904-efa8-4cfd-8e13-303f66bcd4a0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67466904-efa8-4cfd-8e13-303f66bcd4a0/Untitled.png)
+            ![image](https://user-images.githubusercontent.com/70951555/141078022-da276de9-47de-4ae2-bec7-ed57c7d039ac.png)
             
         
         <aside>
