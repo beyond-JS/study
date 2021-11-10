@@ -1,6 +1,6 @@
 - 김수연
     
-    [실행 컨텍스트](https://alveloper.oopy.io/12124968-4d70-4dbd-8a73-75792d7c72e7)
+    [실행 컨텍스트](https://www.notion.so/code32/c995fca542e24f9da904fce966c7f248)
     
 - 윤수진
     - 자바스크립트 클래스
