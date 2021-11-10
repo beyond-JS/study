@@ -4,7 +4,7 @@
     
 - 김수연
     
-    [소수 찾기 알고리즘: 에라토스테네스의 체](https://alveloper.oopy.io/0a1dbcdd-ed24-4fbc-a6a0-13b24fdc68da)
+    [소수 찾기 알고리즘: 에라토스테네스의 체](https://www.notion.so/code32/0a1dbcdded244fbca6a013b24fdc68da)
     
 - 윤수진
     
