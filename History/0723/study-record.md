@@ -1,6 +1,6 @@
 - 김수연
     
-    [Array](https://alveloper.oopy.io/1b4481f0-0064-4498-b791-7cf2fdf4c6f1)
+    [Array](https://www.notion.so/code32/Array-c016b0f3f920440ca1390dc3c57d6121)
     
 
 - 윤수진
