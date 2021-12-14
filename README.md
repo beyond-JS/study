@@ -13,6 +13,8 @@
 - JavaScript
 - React
 - Webpact
+- Next
+  - [How I use Naver map API in Next.js](https://medium.com/@alveloper/how-i-use-naver-map-api-in-next-js-776143902772)
 
 ### Backend
 - AWS
